@@ -19,7 +19,7 @@ The best way to really come to terms with a new platform or tool is to work thro
 
 Above libraries should be available if you setup python using Anaconda distribution.
 
-## Project 1
+## [Project 1](/Iris-flowers/Iris_flowers_classification.ipynb)
 ### Problem statement
 Classification of Iris flowers
 ### Dataset
