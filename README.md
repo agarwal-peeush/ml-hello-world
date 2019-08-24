@@ -31,3 +31,9 @@ Attributes are numeric so you have to figure out how to load and handle data.
 + It is a multi-class classification problem (multi-nominal) that may require some specialized handling.
 + It only has 4 attributes and 150 rows, meaning it is small and easily fits into memory (and a screen or A4 page).
 + All of the numeric attributes are in the same units and the same scale, not requiring any special scaling or transforms to get started.
+
+## [Census income](/Census-income/Census_income_classification.ipynb)
+### Problem statement
+Classification of income of a person based on given features
+### Dataset
+[Census income dataset](https://archive.ics.uci.edu/ml/datasets/Adult)
